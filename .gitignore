@@ -4,6 +4,7 @@
 _autosave-*
 *.000
 *.bak
+*auto_saved*
 
 # Output / fabrication files (optional — remove if you want to track these)
 gerber/
