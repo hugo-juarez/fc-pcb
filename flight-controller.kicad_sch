@@ -4190,10 +4190,10 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 189.23 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc2001ce-6c59-4df3-b106-f59713a7cd7a)
-    (property "Reference" "J_ESC_POWER" (at 191.77 86.36 0)
+    (property "Reference" "J7" (at 191.77 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (at 191.77 88.9 0)
+    (property "Value" "J_ESC_POWER" (at 191.77 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 189.23 86.36 0)
@@ -4207,7 +4207,7 @@
     (instances
       (project "flight-controller"
         (path "/1e8bc6c3-9c25-4744-8bc3-112c39d50b38"
-          (reference "J_ESC_POWER") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
