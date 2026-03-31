@@ -45,6 +45,19 @@
   )
 
   (setup
+    (stackup
+      (layer "F.SilkS" (type "Top Silk Screen"))
+      (layer "F.Paste" (type "Top Solder Paste"))
+      (layer "F.Mask" (type "Top Solder Mask") (thickness 0.01))
+      (layer "F.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 1" (type "core") (thickness 1.51) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "B.Cu" (type "copper") (thickness 0.035))
+      (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.01))
+      (layer "B.Paste" (type "Bottom Solder Paste"))
+      (layer "B.SilkS" (type "Bottom Silk Screen"))
+      (copper_finish "None")
+      (dielectric_constraints no)
+    )
     (pad_to_mask_clearance 0)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
@@ -578,7 +591,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 2b92fdc1-3bc6-4ad0-b20c-ac19c9121530)
-    (at 23.19 21.17)
+    (at 170.0911 98.013035)
     (descr "Through hole straight pin header, 2x17, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x17 2.54mm double row")
     (property "Sheetfile" "flight-controller.kicad_sch")
@@ -906,7 +919,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 831d29c0-9c53-456a-8294-e62e11e47d95)
-    (at 30.39 21.17)
+    (at 124.3711 103.093035)
     (descr "Through hole straight pin header, 2x15, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x15 2.54mm double row")
     (property "Sheetfile" "flight-controller.kicad_sch")
@@ -1454,7 +1467,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a2985595-ce44-42a7-ac57-3f6fb3b7bc71)
-    (at 44.79 21.17)
+    (at 124.3711 80.233035)
     (descr "Through hole straight pin header, 2x08, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x08 2.54mm double row")
     (property "Sheetfile" "flight-controller.kicad_sch")
@@ -2214,7 +2227,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp eca550f0-9416-410d-864f-0faf03aa1c24)
-    (at 37.59 21.17)
+    (at 170.0911 71.089035)
     (descr "Through hole straight pin header, 2x10, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x10 2.54mm double row")
     (property "Sheetfile" "flight-controller.kicad_sch")
