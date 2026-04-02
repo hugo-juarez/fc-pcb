@@ -1,0 +1,43 @@
+# KiCad auto-generated/backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+_autosave-*
+
+# KiCad project backup folder
+bkp/
+
+# Fabrication outputs (regenerate from source)
+gerbers/
+*.gbr
+*.drl
+*.dxf
+*.pdf
+*.svg
+*.pos
+*.rpt
+*.xml
+
+# netlist (regenerated from schematic)
+*.net
+
+# Symbol/footprint rescue backups
+*-rescue.kicad_sym
+*-rescue.dcm
+rescue-backup/
+
+# FreeCAD / Fusion leftovers
+*.FCStd1
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+fp-info-cache
