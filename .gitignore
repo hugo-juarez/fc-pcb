@@ -40,4 +40,9 @@ desktop.ini
 *.swo
 *~
 
+# Emacs auto-save
+\#*\#
 fp-info-cache
+
+# KiCad lock files
+*.lck
