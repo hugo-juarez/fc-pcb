@@ -2127,7 +2127,7 @@
     (property "Value" "XT60PW-M" (at 256.54 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_AMASS:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal" (at 250.19 90.17 0)
+    (property "Footprint" "Custom_BEC_PS:AMASS_XT60PW-M" (at 250.19 90.17 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "~" (at 250.19 90.17 0)
