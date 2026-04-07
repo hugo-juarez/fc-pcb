@@ -1665,7 +1665,7 @@
   )
 
   (symbol (lib_id "Custom_BEC_PS:XT60PW-M") (at 250.19 90.17 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 1d1cd4c6-caa5-4e79-b597-2dd0c6d9191c)
     (property "Reference" "J1" (at 256.54 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1757,7 +1757,7 @@
   )
 
   (symbol (lib_id "Custom_BEC_PS:XT60PW-F") (at 137.16 104.14 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 23b5bbf9-f888-4239-adeb-e14f6ce33b54)
     (property "Reference" "J4" (at 143.51 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2235,7 +2235,7 @@
   )
 
   (symbol (lib_id "Custom_BEC_PS:XT60PW-F") (at 177.8 104.14 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 6dea2e27-fc76-49c7-9232-242d9812ae3f)
     (property "Reference" "J6" (at 184.15 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2411,7 +2411,7 @@
   )
 
   (symbol (lib_id "Custom_BEC_PS:XT60PW-F") (at 177.8 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 8f60f090-e2ba-4610-993d-cd3f1afd15b9)
     (property "Reference" "J5" (at 184.15 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2808,7 +2808,7 @@
   )
 
   (symbol (lib_id "Sensor_Current:ACS770xCB-100B-PFF") (at 54.61 46.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid ee83b628-3303-4deb-b22c-6e82a1ceba0e)
     (property "Reference" "U1" (at 40.64 38.1 0)
       (effects (font (size 1.27 1.27)))
@@ -2837,7 +2837,7 @@
   )
 
   (symbol (lib_id "Custom_BEC_PS:XT60PW-F") (at 137.16 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid efebfe95-b455-41a0-945a-280167b33cf9)
     (property "Reference" "J3" (at 143.51 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
