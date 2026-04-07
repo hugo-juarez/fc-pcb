@@ -1644,7 +1644,7 @@
     (property "Reference" "L1" (at 195.58 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "8uH 3.5A" (at 195.58 39.37 90)
+    (property "Value" "SRR1260-8R2Y" (at 195.58 39.37 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Inductor_SMD:L_Bourns_SRR1260" (at 195.58 41.91 0)

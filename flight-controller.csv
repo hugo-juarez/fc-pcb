@@ -9,7 +9,7 @@
 "8","J1","1","XT60PW-M","Custom_BEC_PS:AMASS_XT60PW-M",""
 "9","J2","1","SM04B-SRSS-TB","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal",""
 "10","J3, J4, J5, J6","4","XT60PW-F","Custom_BEC_PS:AMASS_XT60PW-F",""
-"11","L1","1","8uH 3.5A","Inductor_SMD:L_Bourns_SRR1260",""
+"11","L1","1","SRR1260-8R2Y","Inductor_SMD:L_Bourns_SRR1260",""
 "12","R1","1","1kΩ","Resistor_SMD:R_0805_2012Metric",""
 "13","R2","1","100kΩ","Resistor_SMD:R_0805_2012Metric",""
 "14","R3","1","24.9kΩ","Resistor_SMD:R_0805_2012Metric",""
