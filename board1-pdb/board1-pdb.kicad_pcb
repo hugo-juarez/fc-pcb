@@ -2162,6 +2162,9 @@
 
   (gr_rect (start 114 79) (end 165 133)
     (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2620cd3e-286b-42b0-a09a-21f4a6119796))
+  (gr_text "H. Juarez\nFC-PDB-001-A\n2026" (at 144.272 84.836) (layer "F.SilkS") (tstamp e83faf3b-5f1b-4ede-a58b-3a6c5774e8fd)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 144.424 89.662) (end 145.424 89.662) (width 0.5) (layer "F.Cu") (net 1) (tstamp 23dbbff8-2b28-4ff3-9987-d6ab56ae0f85))
   (segment (start 144.121 89.359) (end 144.424 89.662) (width 0.5) (layer "F.Cu") (net 1) (tstamp 4eb85fe6-c34d-4377-8216-d1201a6495f1))

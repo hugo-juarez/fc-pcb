@@ -414,7 +414,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "flight-controller.kicad_pro",
+    "filename": "board1-pdb.kicad_pro",
     "version": 1
   },
   "net_settings": {
